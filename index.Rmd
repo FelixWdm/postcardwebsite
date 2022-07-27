@@ -1,0 +1,49 @@
+---
+title: "Felix Weijdema"
+image: "FelixPic.jpg"
+color1: "#A6CE39"
+color2: "#C66660"
+angle: 135
+links:
+  - label: Resume
+    url: "https://linkedin.com/"
+  - label: Work Website
+    url: "https://www.uu.nl/staff/FPWeijdema"
+  - label: SoundCloud
+    url: "https://soundcloud.com/"
+  - label: Twitter
+    url: "https://twitter.com/"
+  - label: ORICD
+    url: "https://orcid.org/0000-0001-5150-1102"
+  - label: GitHub
+    url: "https://github.com/FelixWdm"
+
+output:
+  postcards::onofre
+---
+ 
+## Bio
+
+Felix Weijdema is the faculty liaison for the faculty of Veterinary Medicine (check out www.uu.nl/vetportal) and advices staff and students of the faculty on various aspects of scientific information such as:
+
+## Education
+
+**INSEAD** | Fontainebleau, France
+
+M.B.A. | August 2014 - June 2015
+
+**The Juilliard School** | New York, NY
+
+B.F.A. in Music Performance | August 2005 - May 2009
+
+## Experience
+
+**Freelance** | Live Entertainment Consultant | August 2018 - Present
+
+**Cercle** | Producer | August 2018 - Present
+
+**National Public Radio** | Producer | May 2015 - July 2018
+
+**NME Magazine** | Editor | July 2014 - July 2016
+
+**Iceland Symphony Orchestra** | Cellist | October 2009 - June 2014
