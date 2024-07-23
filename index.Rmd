@@ -13,13 +13,14 @@ links:
     url: "https://soundcloud.com/"
   - label: Twitter
     url: "https://twitter.com/"
-  - label: ORICD
+  - label: ORCID
     url: "https://orcid.org/0000-0001-5150-1102"
   - label: GitHub
     url: "https://github.com/FelixWdm"
 
 output:
-  postcards::onofre
+  postcards::solana
+  
 ---
  
 ## Bio
