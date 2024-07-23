@@ -1,1 +1,1 @@
-A very basic RMarkdown website using a template
+A very basic RMarkdown website using a template.
